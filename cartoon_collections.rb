@@ -1,6 +1,6 @@
 require 'pry'
 def square_array(array)
-  array.map { |element| element * element}
+  array.map {|element| element * element}
 end
 
 def summon_captain_planet(planeteer_calls)
